@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://stackoverflow.com/users/926333/girish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/926333/girish" height="30" width="40" /></a>
 <a href="https://twitter.com/jangid_girish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jangid_girish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/girish-sharma-b0a7821a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/girish-sharma-b0a7821a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/girish-sharma-b0a7821a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/girish-sharma-b0a7821a/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
